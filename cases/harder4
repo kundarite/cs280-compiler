@@ -1,0 +1,6 @@
+print 4 < 3 == true;
+print 4 < 3 == false;
+
+x = 3 >= -7;
+
+if x then print "Yes indeed!";

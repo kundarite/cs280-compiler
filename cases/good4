@@ -1,0 +1,10 @@
+T = true;
+F = false;
+
+print F && T;
+print T && F;
+print T && T;
+
+print T || "short circuit should cause this to be skipped";
+
+print F || T;

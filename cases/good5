@@ -1,0 +1,23 @@
+# compares
+
+print "nums";
+print 2 < 3;
+print 2 <= 3;
+print 2 > 3;
+print 2 >= 3;
+print 2 == 3;
+print 2 != 3;
+
+print "strings";
+print "plastics" < "are you listening to me?";
+print "plastics" <= "are you listening to me?";
+print "plastics" > "are you listening to me?";
+print "plastics" >= "are you listening to me?";
+print "plastics" == "are you listening to me?";
+print "plastics" != "are you listening to me?";
+
+print "bools";
+print true == true;
+print true == false;
+print true != true;
+print true != false;

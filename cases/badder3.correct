@@ -1,0 +1,6 @@
+2
+100
+some string
+True
+True
+0: RUNTIME ERROR second operand of && is not boolean typed

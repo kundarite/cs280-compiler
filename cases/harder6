@@ -1,0 +1,4 @@
+stefonSez = "yes"*2*2;
+
+print "Stefon says " + stefonSez;
+print "but I don't know why";

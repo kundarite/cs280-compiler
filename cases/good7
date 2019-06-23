@@ -1,0 +1,15 @@
+print 5*4;
+
+zzz = 31*76;
+print zzz;
+
+print zzz/5;
+
+zzz = zzz/1000;
+print zzz;
+
+print zzz * 9;
+
+print "all right " * 3;
+print 4*"help!";
+print "long string" * 0;

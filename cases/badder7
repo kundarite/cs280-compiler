@@ -1,0 +1,7 @@
+print x = 7;
+
+print x;
+
+x = y = z = 12;
+
+a = b = x = true = 10;

@@ -1,0 +1,5 @@
+x = true;
+
+if x then print "yes x is true";
+
+if 7 then print "should be an error";

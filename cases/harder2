@@ -1,0 +1,6 @@
+print true && true && false;
+print true && true && true;
+print false || false || true;
+
+print true && false || true;
+print true && (false || true);

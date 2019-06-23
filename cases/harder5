@@ -1,0 +1,5 @@
+myX = 10;
+
+z = 4 < myX && myX <= 10;
+
+print z;

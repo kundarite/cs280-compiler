@@ -1,0 +1,7 @@
+x = 3;
+y = 2;
+print x*y;
+print z;
+
+z = 20;
+print z;

@@ -1,0 +1,7 @@
+x = 2 < 7;
+
+if x then x = 9*5;
+
+if x == 45 then x = "look how nicely this works!"
+
+print x;

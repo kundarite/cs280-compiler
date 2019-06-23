@@ -1,0 +1,5 @@
+if false then print "nothing";
+if true then print "something";
+
+if false then if 700 then "hey now";
+if true then if 700 then "hey now";

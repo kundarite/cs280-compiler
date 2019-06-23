@@ -1,0 +1,2 @@
+print "try adding a string to an int";
+print 3 + "nope!";

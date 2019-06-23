@@ -1,0 +1,8 @@
+x = 2;  y = 100; z = "some string";
+print x;
+print y;
+if x != y then print z;
+
+print x != y || z;
+print x != y && true || z;
+print x != y && true && z;

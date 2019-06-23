@@ -1,0 +1,5 @@
+
+print 2 < 5 != false;
+
+print 2 < 5 != false == true != false;
+print 2 < 5 != false == true != "Burma!";

@@ -1,0 +1,2 @@
+print "an erroneous assignment statement...";
+3 = 100;

@@ -1,0 +1,6 @@
+# test out simple print
+
+print 3;
+print "Hello world!";
+print true;
+print false;

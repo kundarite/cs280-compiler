@@ -1,0 +1,12 @@
+y = 2+2;
+print y;
+
+print 3+2;
+
+print 2-9;
+
+y = y - y;
+print y;
+
+print "hello " + "world";
+print "yes " + "sir!";

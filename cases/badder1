@@ -1,0 +1,4 @@
+print "I" + "."*4 + " Wanna Be A Lifeguard....";
+print 2 * 4 * "help ";
+print "I.... Wanna Guard Your Life";
+print "I" + 3*"." + 5;

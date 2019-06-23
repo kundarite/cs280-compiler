@@ -1,0 +1,7 @@
+x = y = 10;
+print x;
+print y;
+y = x*3;
+
+print x;
+print y;
